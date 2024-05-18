@@ -17,6 +17,7 @@ I was able to:
 >In order to test that everything is on point and every API works fine I've used **Insomnia**. 
 >When talking about front-end I've used **React**
 and **Tailwind CSS**. 
+>Due to the json file model that I've got, I used **MongoDB** as database manager.
 
 
 # Uncompleted tasks
