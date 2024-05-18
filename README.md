@@ -1,6 +1,7 @@
 # Siemens problem :)
 
 This is my approach for the  **Siemens problem**. I did not manage to complete all the tasks, but there are the ones that I managed to complete.
+In order to use the app, you can start the server side using IntelliJ IDEA, for the frontend you can use npm start.
 I was able to:
 
  - [x] Get the user's coordinate in latitude and longitude using geolocation
