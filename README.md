@@ -29,5 +29,20 @@ It is no big deal, I would have created another APIs to insert the bookings in t
 
 # Diagrams
 
-Hotel
+<img src="./diagrams/SiemensApplication.png" alt="App" width="300" height="200">
+
 <img src="./diagrams/Hotel.png" alt="HotelModel" width="300" height="200">
+<img src="./diagrams/HotelController.png" alt="HotelController" width="300" height="200">
+<img src="./diagrams/HotelService.png" alt="HotelService" width="300" height="200">
+<img src="./diagrams/HotelRepository.png" alt="HotelRepo" width="300" height="200">
+
+<img src="./diagrams/Review.png" alt="ReviewModedl" width="300" height="200">
+<img src="./diagrams/ReviewController.png" alt="ReviewController" width="300" height="200">
+<img src="./diagrams/ReviewService.png" alt="ReviewService" width="300" height="200">
+<img src="./diagrams/ReviewRepository.png" alt="ReviewRepo" width="300" height="200">
+
+<img src="./diagrams/Room.png" alt="Room" width="300" height="200">
+
+
+
+
