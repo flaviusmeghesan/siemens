@@ -27,3 +27,7 @@ It is no big deal, I would have created another APIs to insert the bookings in t
 
 
 
+# Diagrams
+
+Hotel
+<img src="./diagrams/Hotel.png" alt="HotelModel" width="300" height="200">
