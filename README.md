@@ -1,4 +1,4 @@
-# Siemens problem !
+# Siemens problem :)
 
 This is my approach for the  **Siemens problem**. I did not manage to complete all the tasks, but there are the ones that I managed to complete.
 I was able to:
